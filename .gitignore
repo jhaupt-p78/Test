@@ -15,4 +15,8 @@ mergedManifestDescriptor.json
 APIExternalProducer.js
 .*/APIExternalProducer.js
 /mta_archives/
+<<<<<<< HEAD
 .ch/
+=======
+./che
+>>>>>>> master
